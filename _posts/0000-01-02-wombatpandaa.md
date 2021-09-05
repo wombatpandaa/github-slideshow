@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to wombatpandaa's slide!"
 ---
-This is extremely annoying
+I think I'm getting this now :tada:
 Use the left arrow to go back!
